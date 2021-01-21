@@ -1,0 +1,18 @@
+{
+    "deviceOrientation": "portrait",
+    "subpackages": [
+        {
+            "name": "sub1",
+            "root": "js/sub1.min.js"
+        },
+        {
+            "name": "sub2",
+            "root": "js/sub2.min.js"
+         },
+         {
+             "name": "sub3",
+             "root": "js/sub3.min.js"
+          }
+     ]
+}
+
